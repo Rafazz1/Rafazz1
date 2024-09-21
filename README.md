@@ -7,7 +7,8 @@
 )
 
 ## Contato
-[<img scr='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt=whatsapp height='30'>](https://wa.me/5511946283417)
+[<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt=whatsapp height='30'>](https://wa.me/5511946283417)
 
 
 ##
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
